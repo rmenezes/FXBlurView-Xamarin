@@ -1,4 +1,4 @@
-FXBlurView
+Xamarin-FXBlurView
 ==========
 
 FXBlurView Binding for Xamarin
